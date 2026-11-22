@@ -19,7 +19,6 @@ name: Packages-TUR
 on:
   push:
     branches:
-    - master
     - dev
     - 'dev/**'
     paths:
